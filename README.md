@@ -1,9 +1,9 @@
 <h1 align="center">Hey there 👋, I'm Daniel</h1>
 <h3 align="center">A Swift & SwiftUI developer and enthusiast</h3>
 <p align="center">
-<a href="https://linkedin.com/in/danielcapra" target="blank"><img alt="Linkedin link" src="https://img.shields.io/badge/linkedin-blue"/></a>
-<a href="https://medium.com/@danielcapra" target="blank"><img alt="Medium link" src="https://img.shields.io/badge/medium-red"/></a>
-<a href="https://www.danielcapra.com" target="blank"><img alt="Portfolio link" src="https://img.shields.io/badge/portfolio-darkgreen"/></a>
+<a href="https://linkedin.com/in/danielcapra" target="_blank"><img alt="Linkedin link" src="https://img.shields.io/badge/linkedin-blue"/></a>
+<a href="https://medium.com/@danielcapra" target="_blank"><img alt="Medium link" src="https://img.shields.io/badge/medium-red"/></a>
+<a href="https://www.danielcapra.com" target="_blank"><img alt="Portfolio link" src="https://img.shields.io/badge/portfolio-darkgreen"/></a>
 </p>
 
 - 🔭 I’m currently working on [CarStats](https://apps.apple.com/gb/app/carstats-car-check/id1665463340)
