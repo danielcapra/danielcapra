@@ -20,6 +20,6 @@
 
 - ⚡ Fun fact: **I used to be a motion designer ✨**
 
-### Blogs posts
+### Blog posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
