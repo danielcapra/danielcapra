@@ -1,16 +1,25 @@
-### Hi there 👋
+<h1 align="center">Hey there 👋, I'm Daniel</h1>
+<h3 align="center">A Swift & SwiftUI developer and enthusiast</h3>
+<p align="center">
+<a href="https://linkedin.com/in/danielcapra" target="blank"><img alt="Linkedin link" src="https://img.shields.io/badge/linkedin-blue"/></a>
+<a href="https://medium.com/@danielcapra" target="blank"><img alt="Medium link" src="https://img.shields.io/badge/medium-red"/></a>
+<a href="https://www.danielcapra.com" target="blank"><img alt="Portfolio link" src="https://img.shields.io/badge/portfolio-darkgreen"/></a>
+</p>
 
-<!--
-**danielcapra/danielcapra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on [CarStats](https://apps.apple.com/gb/app/carstats-car-check/id1665463340)
 
-Here are some ideas to get you started:
+- 👯 I’m looking to collaborate on [SCColorSampler](https://github.com/danielcapra/SCColorSampler)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👨‍💻 My portfolio is available at: [danielcapra.com](https://www.danielcapra.com)
+
+- 📝 I sometimes write articles on: [medium.com](https://medium.com/@danielcapra)
+
+- 💬 Ask me about **Swift, SwiftUI and anything in between**
+
+- 📮 You can reach me at: **hi@danielcapra.com**
+
+- ⚡ Fun fact: **I used to be a motion designer ✨**
+
+<!-- ### Blogs posts -->
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
