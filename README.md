@@ -22,5 +22,5 @@
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to let users sample a color on macOS in Swift](https://danielcapra.medium.com/how-to-let-users-sample-a-color-on-macos-in-swift-6c2efa219696?source=rss-8717e15cbfc4------2)
+- [How to let users sample a color on macOS in Swift](https://blog.stackademic.com/how-to-let-users-sample-a-color-on-macos-in-swift-6c2efa219696?source=rss-8717e15cbfc4------2)
 <!-- BLOG-POST-LIST:END -->
