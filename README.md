@@ -22,6 +22,6 @@
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Swift’s AsyncStream explained](https://blog.stackademic.com/swifts-asyncstream-explained-127d84078424?source=rss-8717e15cbfc4------2)
+- [Swift’s AsyncStream Explained](https://blog.stackademic.com/swifts-asyncstream-explained-127d84078424?source=rss-8717e15cbfc4------2)
 - [How to let users sample a color on macOS in Swift](https://blog.stackademic.com/how-to-let-users-sample-a-color-on-macos-in-swift-6c2efa219696?source=rss-8717e15cbfc4------2)
 <!-- BLOG-POST-LIST:END -->
