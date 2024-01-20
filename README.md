@@ -6,11 +6,9 @@
 <a href="https://www.danielcapra.com" target="_blank"><img alt="Portfolio link" src="https://img.shields.io/badge/portfolio-darkgreen"/></a>
 </p>
 
-- 🔭 I’m currently working on [CarStats](https://apps.apple.com/gb/app/carstats-car-check/id1665463340)
+- 👯 I’m looking to collaborate on [SCColorSampler](https://github.com/danielcapra/SCColorSampler) | [CSList](https://github.com/danielcapra/CSList)
 
-- 👯 I’m looking to collaborate on [SCColorSampler](https://github.com/danielcapra/SCColorSampler)
-
-- 👨‍💻 My portfolio is available at: [danielcapra.com](https://www.danielcapra.com)
+- 👨‍💻 More about myself can be found at: [danielcapra.com](https://www.danielcapra.com)
 
 - 📝 I sometimes write articles on: [medium.com](https://medium.com/@danielcapra)
 
