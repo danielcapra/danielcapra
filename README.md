@@ -2,8 +2,6 @@
 <h3 align="center">A Swift & SwiftUI developer and enthusiast</h3>
 <p align="center">
 <a href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=danielcapra" target="_blank"><img alt="Linkedin Follow link" src="https://img.shields.io/badge/Follow_on_LinkedIn-blue"/></a>
-<a href="https://medium.com/@danielcapra" target="_blank"><img alt="Medium link" src="https://img.shields.io/badge/medium-red"/></a>
-<a href="https://www.danielcapra.com" target="_blank"><img alt="Portfolio link" src="https://img.shields.io/badge/portfolio-darkgreen"/></a>
 </p>
 
 - 👯 Open Source: **[SCColorSampler](https://github.com/danielcapra/SCColorSampler) | [CSList](https://github.com/danielcapra/CSList)**
