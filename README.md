@@ -1,22 +1,22 @@
 <h1 align="center">Hey there 👋, I'm Daniel</h1>
 <h3 align="center">A Swift & SwiftUI developer and enthusiast</h3>
 <p align="center">
-<a href="https://linkedin.com/in/danielcapra" target="_blank"><img alt="Linkedin link" src="https://img.shields.io/badge/linkedin-blue"/></a>
+<a href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=danielcapra" target="_blank"><img alt="Linkedin Follow link" src="https://img.shields.io/badge/Follow_on_LinkedIn-blue"/></a>
 <a href="https://medium.com/@danielcapra" target="_blank"><img alt="Medium link" src="https://img.shields.io/badge/medium-red"/></a>
 <a href="https://www.danielcapra.com" target="_blank"><img alt="Portfolio link" src="https://img.shields.io/badge/portfolio-darkgreen"/></a>
 </p>
 
-- 👯 I’m looking to collaborate on [SCColorSampler](https://github.com/danielcapra/SCColorSampler) | [CSList](https://github.com/danielcapra/CSList)
+- 👯 Open Source: **[SCColorSampler](https://github.com/danielcapra/SCColorSampler) | [CSList](https://github.com/danielcapra/CSList)**
 
-- 👨‍💻 More about myself can be found at: [danielcapra.com](https://www.danielcapra.com)
+- 👨‍💻 More about myself can be found at: **[danielcapra.com](https://www.danielcapra.com)**
 
-- 📝 I sometimes write articles on: [medium.com](https://medium.com/@danielcapra)
-
-- 💬 Ask me about **Swift, SwiftUI and anything in between**
+- 📝 I write articles on: **[medium.com](https://medium.com/@danielcapra)**
 
 - 📮 You can reach me at: **hi@danielcapra.com**
 
-- ⚡ Fun fact: **I used to be a motion designer ✨**
+- 💼 Past Career: **I used to be a motion designer ✨**
+
+- ⚡ Fun fact: **I animated and helped design the graphics package for SNL's Thanksgiving Special back in 2021.**
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
